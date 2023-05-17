@@ -12,7 +12,10 @@ download it https://www.arduino.cc/
 Install digispark driver
 ```
 ```
-install digispark boadr
+install digispark board
+```
+```
+Download payloads and scripts present in payload folder
 ```
 ```
 edit code 
