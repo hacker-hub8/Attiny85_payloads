@@ -5,6 +5,11 @@ digispark Attiny 85 payloads and scripts
 
 
 
+## License
+
+[MIT](https://github.com/hacker-hub8/Attiny85_payloads/blob/main/LICENSE)
+
+
 ## digispark Attiny 85 payloads and scripts
 
 **About:** 
@@ -23,7 +28,44 @@ The below mentioned things are requried depends on project:
 
 
 
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+## Download here
+
+The below mentioned things are requried depends on project:
+
+- [Arduino Software](https://www.arduino.cc/en/software)
+- [Digispark Attiny85 Windows Drivers](https://github.com/digistump/DigistumpArduino/releases/download/1.6.7/Digistump.Drivers.zip)
+- [Digispark Board](https://www.google.com/search?q=digispark+board+amazon+india)
+
+## Pinout Diagram
+
+![App Screenshot](https://raw.githubusercontent.com/hacker-hub8/Attiny85_payloads/refs/heads/main/img/digispark-pinout.png)
+
+# Installation & Usage
+## Open Arduino IDE app
+![App Screenshot](https://raw.githubusercontent.com/hacker-hub8/Attiny85_payloads/refs/heads/main/img/1a.png)
+
+## Use Arduino 1.8.19 ( Best One )
+![App Screenshot](https://raw.githubusercontent.com/hacker-hub8/Attiny85_payloads/refs/heads/main/img/2a.png)
+
+
+## Open Preference
+![App Screenshot](https://raw.githubusercontent.com/hacker-hub8/Attiny85_payloads/refs/heads/main/img/3a.png)
+
+### paste following url  "https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_digistump_index.json" 
+![App Screenshot](https://raw.githubusercontent.com/hacker-hub8/Attiny85_payloads/refs/heads/main/img/4a.png)
+
+## Download digistump AVR Boards
+![App Screenshot](https://raw.githubusercontent.com/hacker-hub8/Attiny85_payloads/refs/heads/main/img/5a.png)
+
+## Select Digispark (Default- 165mhz)
+![App Screenshot](https://raw.githubusercontent.com/hacker-hub8/Attiny85_payloads/refs/heads/main/img/6a.png)
+## Compile & Upload while in given 60sec timeout
+![App Screenshot](https://raw.githubusercontent.com/hacker-hub8/Attiny85_payloads/refs/heads/main/img/7a.png)
+## Support
+
+For support, email support@hackerhub8.in or join our 
+[Instagtam.](https://www.instagram.com/hacker_hub8)
+
+
 
