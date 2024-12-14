@@ -18,6 +18,35 @@ The Digispark Attiny85 is a small microcontroller often used for various electro
 
 
 
+## List Of Payloads
+
+Check /payloads [Or Click here](https://github.com/hacker-hub8/Attiny85_payloads/tree/main/payloads)
+
+- BackDoor
+- Create_Account
+- Execute_Powershell_Script
+- Fork_Bomb
+- Hi_Chewy
+- PayLoad Dropper
+- Rapid_Shell
+- Reverse_Shell
+- RickRoll_Update
+- SAM Dumper/SAM_DUMPER
+- Silly_Mouse
+- Talker
+- UAC Bypass
+- Wallpaper_Changer
+- Wallpaper_Changer_macOS
+- Wallpaper_Prank
+- Wi-Fi password stealer
+- WiFi_Profile_Grabber
+- WiFi_Profile_Mailer
+- Window_Jammer
+- Windows Crasher
+- Windows Phisher
+
+
+
 ## requirements
 
 The below mentioned things are requried depends on project:
@@ -25,8 +54,6 @@ The below mentioned things are requried depends on project:
 - Arduino IDE
 - Digispark Attiny85 Windows Drivers
 - Digispark Board
-
-
 
 
 ## Download here
