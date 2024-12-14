@@ -1,35 +1,29 @@
-# Hacker Hub 8 community
 
-# ` Attiny 85 Payloads-- `
+# Hackerhub8 Community
 
-``` 
-use arduino softwate
-```
-``` 
-download it https://www.arduino.cc/
-```
-```
-Install digispark driver
-```
-```
-install digispark board
-```
-```
-Download payloads and scripts present in payload folder
-```
-```
-edit code 
-```
-```
-upload and use it by your own risk
-```
+digispark Attiny 85 payloads and scripts
 
 
-#  Follow us 
 
-<p align="center">
-<a href="https://telegram.me/hacker_hub8"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-</p>
-<p align="center">
-<a href="https://instagram.com/hacker_hub8"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
-</p>
+## digispark Attiny 85 payloads and scripts
+
+**About:** 
+
+The Digispark Attiny85 is a small microcontroller often used for various electronics projects, including HID (Human Interface Device) attacks. It can emulate a USB keyboard or mouse, allowing it to execute preprogrammed scripts or payloads when plugged into a target device. Common payloads include automating keystrokes to open command prompts, downloading malicious files, or exfiltrating data. Scripts are written in Arduino IDE using libraries like DigiKeyboard.h. While it has legitimate uses in automation and prototyping, its compact size and ease of programming have also made it a tool in penetration testing and ethical hacking. Always ensure responsible and authorized use!
+
+
+
+## requirements
+
+The below mentioned things are requried depends on project:
+
+- Arduino IDE
+- Digispark Attiny85 Windows Drivers
+- Digispark Board
+
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
